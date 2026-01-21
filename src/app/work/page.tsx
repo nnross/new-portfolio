@@ -137,7 +137,7 @@ export default function Page() {
       </div>
 
       <div
-        className={`fixed justify-self-center flex items-center bottom-[20px] w-[328px] h-[40px] rounded-[40px] ${
+        className={`fixed justify-self-center flex items-center bottom-10px md:bottom-[40px] w-[328px] h-[40px] rounded-[40px] ${
           theme == "light" ? "bg-[#E9E8E8]" : "bg-[#6D6C6D]"
         }`}
       >
