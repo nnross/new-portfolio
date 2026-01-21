@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+            "number": 1,
+            "title": "Project title",
+            "description": "Short info about the project, what it’s about etc. very brief Short info about the project, what it’s about etc. very brief Short info about the project, what it’s ",
+            "image": "/placeholder.png"
+        },
+                {
+            "number": 2,
+            "title": "Project title",
+            "description": "Short info about the project, what it’s about etc. very brief Short info about the project, what it’s about etc. very brief Short info about the project, what it’s ",
+            "image": "/placeholder.png"
+        },
+                {
+            "number": 3,
+            "title": "Project title",
+            "description": "Short info about the project, what it’s about etc. very brief Short info about the project, what it’s about etc. very brief Short info about the project, what it’s ",
+            "image": "/placeholder.png"
+        },
+                {
+            "number": 4,
+            "title": "Project title",
+            "description": "Short info about the project, what it’s about etc. very brief Short info about the project, what it’s about etc. very brief Short info about the project, what it’s ",
+            "image": "/placeholder.png"
+        }
+    ],
+    "experience": [
+        {
+            "number": 1,
+            "count": 4,
+            "description": "projects delivered independently or collaboratively, from requirements to developer handoff" 
+        },
+        {
+            "number": 2,
+            "count": 4,
+            "description": "projects delivered independently or collaboratively, from requirements to developer handoff" 
+        },
+        {
+            "number": 3,
+            "count": 4,
+            "description": "projects delivered independently or collaboratively, from requirements to developer handoff" 
+        },
+        {
+            "number": 4,
+            "count": 4,
+            "description": "projects delivered independently or collaboratively, from requirements to developer handoff" 
+        }
+    ]
+}
