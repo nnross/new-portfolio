@@ -19,7 +19,7 @@ export default function Page() {
   }
 
   return (
-    <div className="animate-class">
+    <div className="animate-class flex justify-center">
       <div
         className={`flex flex-col mx-[20px] my-[24px]  ${
           currentView == 0
